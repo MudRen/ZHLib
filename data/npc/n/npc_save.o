@@ -1,0 +1,8 @@
+#/u/yuchang/npc/wukong.c
+killer ({})
+want_kills ({})
+dbase (["max_neili":5000,"gender":"ÄĞĞÔ","can_speak":1,"unit":"Î»","mudbug":(["xingxiu":2,"emei":3,"honghuahui":4,"ouyang":1,"taohua":2,"xiaoyao":7,"duan":2,"gaibang":9,"shenlong":5,"huashan":10,"gumu":1,"xuedao":1,"wudang":8,"murong":6,"xueshan":2,]),"title":"[1;31mÃÅÅÉµ÷²éÔ±[2;37;0m","limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Á½Àß","×óÁ³","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","ÓÒÁ³","×ó½Å","ÓÒ½Å","×ó¶ú","ÓÒ¶ú",}),"menpai":(["taohua":115,"duan":115,"gaibang":115,"huashan":115,"shenlong":115,"jianzong":115,"shaolin":115,"wudang":115,"murong":115,"hu":115,"xingxiu":115,"emei":115,"honghuahui":115,"ouyang":115,"xiaoyao":115,"lingjiu":115,"gumu":115,"xuedao":115,"quanzhen":115,"xueshan":96,]),"id":"china hero","str":100,"dex":100,"con":100,"combat_exp":10000000,"kar":100,"int":100,"eff_jing":5000,"qi":5000,"per":100,"startroom":"/d/wizard/noname_room","name":"[1;37mÖĞ»ªÓ¢ĞÛ[2;37;0m","max_jing":5000,"eff_qi":5000,"race":"ÈËÀà","max_qi":5000,"shen":0,"age":30,"shen_type":0,"jing":5000,"jingli":10000,"attitude":"peaceful","max_jingli":10000,"neili":5000,])
+skills (["parry":500,"unarmed":500,"dodge":500,"stick":500,])
+SAVE_NAME "npc_save"
+can_save 1
+family ({"ÉÙÁÖËÂ","shaolin","Îäµ±ÅÉ","wudang","Ø¤°ï","gaibang","È«Õæ½Ì","quanzhen","»ªÉ½ÅÉ","huashan","¶ÎÊÏ»Ê×å","duan","Ä½ÈİÊÀ¼Ò","murong","Ñ©É½ËÂ","xueshan","ÁéğÕ¹¬","lingjiu","¶ëáÒÅÉ","emei","ÌÒ»¨µº","taohua","ÉñÁú½Ì","shenlong","¹ÅÄ¹ÅÉ","gumu","ĞÇËŞÅÉ","xingxiu","åĞÒ£ÅÉ","xiaoyao","Ñªµ¶ÃÅ","xuedao","»ªÉ½½£×Ú","jianzong","Å·ÑôÊÀ¼Ò","ouyang","¹ØÍâºú¼Ò","hu","ºì»¨»á","honghuahui",})

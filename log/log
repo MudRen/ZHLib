@@ -1,0 +1,311 @@
+d/pk/npc/wu.c line 2: Cannot #include /kungfu/class/lingjiu/etc.h before the end of line
+d/pk/npc/wu.c line 255: Undefined function permit_recruit before )
+kungfu/skill/liuyang-zhang.c line 222: Warning: offensive_target() inherited from both /feature/sserver.c and /feature/sserver.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c. before the end of file
+kungfu/skill/liuyang-zhang.c line 222: Warning: offensive_target() inherited from both /feature/sserver.c and /feature/sserver.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c. before the end of file
+kungfu/skill/liuyang-zhang.c line 222: Warning: offensive_target() inherited from both /feature/sserver.c and /feature/sserver.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c. before the end of file
+d/city/kedian.c line 31: Undefined variable 'HEIDIAN_DIR' before  "yangzhou_heidian",
+kungfu/skill/liuyang-zhang.c line 222: Warning: offensive_target() inherited from both /feature/sserver.c and /feature/sserver.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c. before the end of file
+d/xiangyang/npc/huangzhen.c line 158: Undefined variable 'HEIDIAN_D' before is_owner(me->query("
+d/city/pm_restroom.c line 75: Undefined variable 'HEIDIAN_D' before query_heidian();
+d/city/pm_restroom.c line 75: Undefined variable 'HEIDIAN_D' before query_heidian();
+d/city/leitai.c line 14: Undefined variable 'LONG' before ;
+d/city/leitai.c line 14: parse error before ;
+d/city/leitai.c line 34: Undefined variable 'BIWU_D' before get_list();
+clone/heidian/beijing_huoji.c line 3: parse error before ;
+d/beijing/wenmiao.c line 101: Undefined variable 'CHOUQIAN' before query_chouqian() + "
+kungfu/skill/liuyang-zhang.c line 222: Warning: offensive_target() inherited from both /feature/sserver.c and /feature/sserver.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c. before the end of file
+d/city/leitai.c line 14: Undefined variable 'LONG' before ;
+d/city/leitai.c line 14: parse error before ;
+d/city/library.c line 6: Warning: redefinition of #define STORY_DIR
+ before inherit ROOM;
+d/baituo/npc/bt_snake.c line 112: Undefined function query_lord before  ) {
+kungfu/class/ultra/dugu.c line 940: Redeclaration of function accept_object. before the end of line
+kungfu/skill/liuyang-zhang.c line 222: Warning: offensive_target() inherited from both /feature/sserver.c and /feature/sserver.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c. before the end of file
+kungfu/skill/beidou-zhenfa.c line 365: Warning: offensive_target() inherited from both /feature/sserver.c (via /inherit/skill/skill.c) and /feature/sserver.c; using the definition in /inherit/skill/skill.c. before the end of file
+d/xiakedao/npc/xieyan.c line 162: Warning: Return type doesn't match prototype ( mixed vs string ) before 
+d/xueshan/obj/lamp.c line 28: Undefined function set_max_liquid before ;
+d/xueshan/obj/lamp.c line 29: Undefined function set_current_liquid before ;
+d/xueshan/obj/lamp.c line 40: No such inherited function ::init before ;
+feature/damage.c line 623: Undefined variable 'ob' before query("szj/passed") 
+feature/damage.c line 623: Undefined variable 'ob' before query("szj/passed") 
+feature/damage.c line 623: Undefined variable 'ob' before query("szj/passed") 
+feature/damage.c line 623: Undefined variable 'ob' before query("szj/passed") 
+feature/damage.c line 623: Undefined variable 'ob' before query("szj/passed") 
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 112: Undefined variable 'xism_age' before  (int)ob->query_skil
+adm/daemons/race/human.c line 129: Undefined variable 'skill' before  ob->query_skill("fo
+adm/daemons/race/human.c line 158: Undefined variable 'add_point' before  my["combat_exp"] / 
+adm/daemons/race/human.c line 161: Undefined variable 'die_point' before  my["combat"]["dieti
+adm/daemons/race/human.c line 173: Undefined variable 'jing_age' before  (int)ob->query_skil
+d/wizard/mingren_room.c line 2: parse error before »·¦×İºáËÄº££¬¹ÅµÀÈÈ³
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 16: Undefined variable 'LDD_PORT' before the end of line
+clone/user/login.c line 18: Undefined variable 'LDD_SERVER' before !=-1)
+clone/user/login.c line 20: Undefined variable 'LDD_D' before logon( this_object()
+clone/user/login.c line 97: Undefined variable 'SAVE2DB' before the end of line
+clone/user/login.c line 98: Undefined variable 'MYSQL_D' before db_set("login_dbase"
+clone/user/login.c line 110: Undefined variable 'SAVE2DB' before the end of line
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 764: parse error before  (find_body(ob->quer
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1044: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1070: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 1070: Undefined variable 'TOPTEN_D' before topten_checkplayer(u
+adm/daemons/logind.c line 236: parse error before the end of line
+adm/daemons/logind.c line 281: Illegal LHS before the end of line
+adm/daemons/logind.c line 281: parse error before the end of line
+adm/daemons/logind.c line 301: Illegal LHS before the end of line
+adm/daemons/logind.c line 301: parse error before the end of line
+adm/daemons/logind.c line 318: Illegal LHS before the end of line
+adm/daemons/logind.c line 374: Warning: Value of conditional expression is unused before ->set_temp("logon_ti
+adm/daemons/logind.c line 236: parse error before the end of line
+adm/daemons/logind.c line 281: Illegal LHS before the end of line
+adm/daemons/logind.c line 281: parse error before the end of line
+adm/daemons/logind.c line 301: Illegal LHS before the end of line
+adm/daemons/logind.c line 301: parse error before the end of line
+adm/daemons/logind.c line 318: Illegal LHS before the end of line
+adm/daemons/logind.c line 374: Warning: Value of conditional expression is unused before ->set_temp("logon_ti
+d/wizard/wizard_room.c line 2: parse error before the end of line
+d/wizard/wizard_room.c line 2: parse error before the end of line
+d/wizard/wizard_room.c line 2: parse error before the end of line
+adm/daemons/logind.c line 708: Text block exceeded maximum length before  ob->set_temp("email
+adm/daemons/logind.c line 708: Undefined variable 'email' before ;
+adm/daemons/logind.c line 708: parse error before the end of line
+adm/daemons/logind.c line 817: Illegal LHS before )
+adm/daemons/logind.c line 817: parse error before the end of line
+adm/daemons/logind.c line 823: parse error before set("str", 20);
+adm/daemons/logind.c line 709: Text block exceeded maximum length before  ob->set_temp("email
+adm/daemons/logind.c line 709: Undefined variable 'email' before ;
+adm/daemons/logind.c line 709: parse error before the end of line
+adm/daemons/logind.c line 818: Illegal LHS before )
+adm/daemons/logind.c line 818: parse error before the end of line
+adm/daemons/logind.c line 824: parse error before set("str", 20);
+adm/daemons/logind.c line 709: Text block exceeded maximum length before  ob->set_temp("email
+adm/daemons/logind.c line 709: Undefined variable 'email' before ;
+adm/daemons/logind.c line 709: parse error before the end of line
+adm/daemons/logind.c line 818: Illegal LHS before )
+adm/daemons/logind.c line 818: parse error before the end of line
+adm/daemons/logind.c line 824: parse error before set("str", 20);
+adm/daemons/logind.c line 708: Text block exceeded maximum length before n"
+adm/daemons/logind.c line 709: Undefined variable 'n' before ´«ÈË£¬Ç§Íò²»ÒªÈÃÎÒÊ§
+adm/daemons/logind.c line 709: parse error before ´«ÈË£¬Ç§Íò²»ÒªÈÃÎÒÊ§
+adm/daemons/logind.c line 1280: End of file in string before urn total;
+cmds/std/whisper.c line 69: Undefined function reply_whisper before ;
+cmds/std/whisper.c line 69: Bad assignment ( int vs unknown ). before the end of line
+adm/daemons/logind.c line 8: Cannot #include /u/yuchang/mail_center/mail.h before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/logind.c line 8: Cannot #include /u/yuchang/mail_center/mail.h before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/logind.c line 720: Text block exceeded maximum length before 		return;
+adm/daemons/logind.c line 720: parse error before ;
+adm/daemons/logind.c line 757: Illegal LHS before the end of line
+adm/daemons/logind.c line 757: parse error before the end of line
+adm/daemons/logind.c line 809: Illegal LHS before the end of line
+adm/daemons/logind.c line 809: parse error before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/logind.c line 720: Text block exceeded maximum length before 		return;
+adm/daemons/logind.c line 720: parse error before ;
+adm/daemons/logind.c line 757: Illegal LHS before the end of line
+adm/daemons/logind.c line 757: parse error before the end of line
+adm/daemons/logind.c line 809: Illegal LHS before the end of line
+adm/daemons/logind.c line 809: parse error before the end of line
+adm/daemons/logind.c line 720: Text block exceeded maximum length before 		return;
+adm/daemons/logind.c line 720: parse error before ;
+adm/daemons/logind.c line 757: Illegal LHS before the end of line
+adm/daemons/logind.c line 757: parse error before the end of line
+adm/daemons/logind.c line 809: Illegal LHS before the end of line
+adm/daemons/logind.c line 809: parse error before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/logind.c line 720: Text block exceeded maximum length before 		return;
+adm/daemons/logind.c line 720: parse error before ;
+adm/daemons/logind.c line 757: Illegal LHS before the end of line
+adm/daemons/logind.c line 757: parse error before the end of line
+adm/daemons/logind.c line 809: Illegal LHS before the end of line
+adm/daemons/logind.c line 809: parse error before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+adm/daemons/toptend.c line 95: Undefined variable 'RICH_B' before the end of line
+adm/daemons/toptend.c line 96: Undefined variable 'TOPTEN_RICH' before the end of line
+adm/daemons/toptend.c line 100: Undefined variable 'PKER_B' before the end of line
+adm/daemons/toptend.c line 101: Undefined variable 'TOPTEN_PKER' before the end of line
+adm/daemons/toptend.c line 105: Undefined variable 'EXP_B' before the end of line
+adm/daemons/toptend.c line 106: Undefined variable 'TOPTEN_EXP' before the end of line
+clone/user/user.c line 160: Undefined variable 'SAVE2DB' before  res=MYSQL_D->db_sav
+clone/user/user.c line 160: Undefined variable 'MYSQL_D' before db_save_all(this_obj
+clone/user/user.c line 161: Undefined variable 'SAVE2FILE' before  res = ::save();
+clone/user/user.c line 180: Undefined variable 'SAVE2DB' before  res=MYSQL_D->db_res
+clone/user/user.c line 180: Undefined variable 'MYSQL_D' before db_restore_all(this_
+clone/user/user.c line 181: Undefined variable 'SAVE2FILE' before  res = ::restore();
+feature/master.c line 39: parse error before  ×ß°É×ß°É£¡Äã×ß°É£¡°
+feature/master.c line 44: $var illegal outside of function pointer. before N½«ÊÖÕÆÕ³ÔÚ$nµÄ±³ºó£
+feature/master.c line 44: $var illegal outside of function pointer. before nµÄ±³ºó£¬à«à«×ÔÓï£¬"
+feature/master.c line 71: $var illegal outside of function pointer. before N³¯$n×Åº°µÀ£º¡°Äã%s£
+feature/master.c line 71: $var illegal outside of function pointer. before n×Åº°µÀ£º¡°Äã%s£¬ÕæÊ
+feature/master.c line 82: End of file in string before       this_object(),
+feature/master.c line 39: parse error before  ×ß°É×ß°É£¡Äã×ß°É£¡°
+feature/master.c line 44: $var illegal outside of function pointer. before N½«ÊÖÕÆÕ³ÔÚ$nµÄ±³ºó£
+feature/master.c line 44: $var illegal outside of function pointer. before nµÄ±³ºó£¬à«à«×ÔÓï£¬"
+feature/master.c line 71: $var illegal outside of function pointer. before N³¯$n×Åº°µÀ£º¡°Äã%s£
+feature/master.c line 71: $var illegal outside of function pointer. before n×Åº°µÀ£º¡°Äã%s£¬ÕæÊ
+feature/master.c line 82: End of file in string before       this_object(),
+feature/master.c line 39: parse error before  ×ß°É×ß°É£¡Äã×ß°É£¡°
+feature/master.c line 44: $var illegal outside of function pointer. before N½«ÊÖÕÆÕ³ÔÚ$nµÄ±³ºó£
+feature/master.c line 44: $var illegal outside of function pointer. before nµÄ±³ºó£¬à«à«×ÔÓï£¬"
+feature/master.c line 71: $var illegal outside of function pointer. before N³¯$n×Åº°µÀ£º¡°Äã%s£
+feature/master.c line 71: $var illegal outside of function pointer. before n×Åº°µÀ£º¡°Äã%s£¬ÕæÊ
+feature/master.c line 82: End of file in string before ú»¹ÊÇÄÃ»ØÈ¥°É£¡¡±\n"
+feature/master.c line 39: parse error before  ×ß°É×ß°É£¡Äã×ß°É£¡°
+feature/master.c line 44: $var illegal outside of function pointer. before N½«ÊÖÕÆÕ³ÔÚ$nµÄ±³ºó£
+feature/master.c line 44: $var illegal outside of function pointer. before nµÄ±³ºó£¬à«à«×ÔÓï£¬"
+feature/master.c line 71: $var illegal outside of function pointer. before N³¯$n×Åº°µÀ£º¡°Äã%s£
+feature/master.c line 71: $var illegal outside of function pointer. before n×Åº°µÀ£º¡°Äã%s£¬ÕæÊ
+feature/master.c line 82: End of file in string before ú»¹ÊÇÄÃ»ØÈ¥°É£¡¡±\n"
+feature/master.c line 39: parse error before  ×ß°É×ß°É£¡Äã×ß°É£¡°
+feature/master.c line 44: $var illegal outside of function pointer. before N½«ÊÖÕÆÕ³ÔÚ$nµÄ±³ºó£
+feature/master.c line 44: $var illegal outside of function pointer. before nµÄ±³ºó£¬à«à«×ÔÓï£¬"
+feature/master.c line 71: $var illegal outside of function pointer. before N³¯$n×Åº°µÀ£º¡°Äã%s£
+feature/master.c line 71: $var illegal outside of function pointer. before n×Åº°µÀ£º¡°Äã%s£¬ÕæÊ
+feature/master.c line 82: End of file in string before "
+feature/master.c line 39: parse error before  ×ß°É×ß°É£¡Äã×ß°É£¡°
+feature/master.c line 44: $var illegal outside of function pointer. before N½«ÊÖÕÆÕ³ÔÚ$nµÄ±³ºó£
+feature/master.c line 44: $var illegal outside of function pointer. before nµÄ±³ºó£¬à«à«×ÔÓï£¬"
+feature/master.c line 71: $var illegal outside of function pointer. before N³¯$n×Åº°µÀ£º¡°Äã%s£
+feature/master.c line 71: $var illegal outside of function pointer. before n×Åº°µÀ£º¡°Äã%s£¬ÕæÊ
+feature/master.c line 82: End of file in string before     catch(ob->save()

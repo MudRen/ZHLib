@@ -1,0 +1,6 @@
+#/adm/npc/buddha.c
+killer ({})
+want_kills ({})
+dbase (["age":500,"title":"[1;36m·ğ×æ[2;37;0m","id":"buddha","can_speak":1,"eff_jing":99999,"neili":99999,"nickname":"[1;37mÈı½ç·¨Íõ[2;37;0m","max_jing":99999,"jing":99999,"eff_qi":99999,"max_qi":99999,"jingli":99999,"max_jingli":99999,"max_neili":99999,"shen_type":0,"str":99,"qi":99999,"dex":99,"con":99,"attitude":"friendly","inquiry":(["×ªÊÀÖØÉú":,]),"int":99,"name":"[1;33mÊÍåÈÄ²Äá[2;37;0m","unit":"Î»","race":"ÈËÀà","kar":19,"long":"·ğ×æ×¯ÑÏ±¦Ïñ£¬ÈÃÈË²»¸ÒÕıÊÓ¡£","jiali":9999,"per":27,"chat_chance_combat":200,"gender":"ÄĞĞÔ","limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"chat_msg_combat":({,,,,,,,}),"shen":0,"combat_exp":99999999,])
+skills (["medical":999,"dodge":999,"force":999,"sword":999,"buddhism":999,"idle-force":999,"lunhui-jian":999,"literate":999,"shaolin-yishu":999,"parry":999,"huntian-baojian":999,"lamaism":999,"unarmed":999,])
+skill_map (["medical":"shaolin-yishu","parry":"lunhui-jian","force":"huntian-baojian","sword":"lunhui-jian",])
